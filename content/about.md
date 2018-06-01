@@ -1,0 +1,146 @@
+---
+title: About me
+---
+
+This site is mainly intended as a way to keep in touch with friends and family
+back in Canada while I’m off galavanting in other countries.
+
+After wandering aimlessly through various university faculties until I had the
+requisite bits of paper, I moved south of the border to work as a software
+developer at [Autodesk][autodesk] in San Rafael, California, just across the
+bridge from San Francisco. At that point, this site was mostly crammed with
+pictures from the City, Sonoma, and some shots of lizards and stuff.
+
+After leaving Autodesk, I took off for Mérida, México, where the people were
+friendly, the food was delicious, and the telephone calls were $3.00 a minute.
+As a result, I dumped all the pictures and stories I could on here, mainly to
+avoid of dying destitute and thousands of pesos in debt to TelMex.
+
+Eventually, I moved to one of the best cities in the world, Tokyo, Japan, where
+I lived for close to five years, met my wife, and learned to speak, read, and
+write Japanese. Our children were born in Japan, and it still feels more like
+home than anywhere else.
+
+We now live in Mountain View, California, where I work as a software engineer
+for [Google][google].
+
+You can drop me a line anytime at [chris@bracken.jp][email].
+
+## About This Site
+
+You can find the source for this site and instructions on how to build it on
+[GitHub][site_repo].
+
+## PGP Public Key
+
+If you’re a fan of crypto, you can find me on [keybase.io][keybase]. Here’s my
+PGP public key:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+AQ==
+=IBrt
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+[autodesk]: https://autodesk.com
+[github]: https://github.com/cbracken
+[google]: https://google.com
+[email]: mailto:chris@bracken.jp
+[keybase]: https://keybase.io/cbracken
+[site_repo]: https://github.com/cbracken/cbracken.github.io
