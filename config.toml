@@ -1,0 +1,45 @@
+baseURL = "https://chris.bracken.jp/"
+languageCode = "en-ca"
+defaultContentLanguage = "en-ca"
+title = "Chris Bracken"
+enableRobotsTXT = true
+enableEmoji = true
+disableHugoGeneratorInject = true
+theme = "mofo"
+
+preserveTaxonomyNames = true
+hasCJKLanguage = true
+paginate = 5
+
+[author]
+  name = "Chris Bracken"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "About"
+  weight = 20
+  identifier = "about"
+  url = "/about/"
+[[menu.main]]
+  name = "GitHub"
+  weight = 20
+  identifier = "github"
+  url = "https://github.com/cbracken/"
+[[menu.main]]
+  name = "Twitter"
+  weight = 20
+  identifier = "twitter"
+  url = "https://twitter.com/cbracken/"
+
+[params]
+  since = "2000"                  # Initial site creation, start of copyright.
+  dateFormat = "02 January 2006"  # See https://gohugo.io/functions/format/
