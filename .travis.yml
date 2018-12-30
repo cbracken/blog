@@ -1,0 +1,26 @@
+language: go
+
+# use the latest version of go.
+go:
+  - master
+
+# Fetch the latest version of Hugo.
+install:
+  - go get github.com/spf13/hugo
+
+# Build the website.
+script:
+  - hugo
+
+deploy:
+  local_dir: public # static site output dir for Hugo.
+  repo: cbracken/cbracken.github.io # repo to deploy to.
+  target_branch: master # deploy to master branch.
+  provider: pages # GitHub Pages
+  skip_cleanup: true
+  keep_history: true
+  github_token: $GITHUB_TOKEN
+  email: chris@bracken.jp
+  name: "Chris Bracken"
+  on:
+    branch: master
