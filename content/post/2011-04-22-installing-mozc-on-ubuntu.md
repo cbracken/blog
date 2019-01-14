@@ -6,18 +6,22 @@ tags:
 - Japanese
 - Linux
 - Software
-title: Installing uim-mozc on Ubuntu 11.04 (Natty Narwhal)
+title: Installing Mozc on Ubuntu
 ---
 
-If you're like me, one of the first things you do when you install a fresh
-Linux distribution is to install a decent [Japanese IME][wiki_ime]. Ubuntu
-defaults to [ibus-anthy][anthy], but I personally prefer [uim-mozc][mozc], and
+If you're a Japanese speaker, one of the first things you do when you install a
+fresh Linux distribution is to install a decent [Japanese IME][wiki_ime].
+Ubuntu defaults to [Anthy][anthy], but I personally prefer [Mozc][mozc], and
 that's what I'm going to show you how to install here.<!--more-->
 
 *Update (2011-05-01):* Found an older [video tutorial][yt_tutorial] on YouTube
 which provides an alternative (and potentially more comprehensive) solution for
 Japanese support on 10.10 using ibus instead of uim, which is the better choice
 for newer releases.
+
+*Update (2011-10-25):* The software installation part of this process got a
+whole lot easier in Ubuntu releases after Natty, and as noted above, I'd
+recommend sticking with ibus over uim.
 
 ### Japanese Input Basics
 
@@ -66,7 +70,7 @@ The GUI system (e.g. ibus, uim) is responsible for:
 1. Ancillary functions such as supplying a GUI for custom dictionary
    management, kanji lookup by radical, etc.
 
-The transliteration engine (e.g. anthy, mozc) is responsible for transforming a
+The transliteration engine (e.g. Anthy, Mozc) is responsible for transforming a
 piece of input text, usually in kana form, into kanji: for example みる into
 one of: 見る、観る、診る、視る. This involves:
 
@@ -76,63 +80,53 @@ one of: 見る、観る、診る、視る. This involves:
 1. Supplying alternative transformations in case the best guess was incorrect.
 
 
-### Why uim-mozc?
+### Why Mozc?
 
-Because it's there. And because it's better. Have a look at the conversion list
-up at the top of this post. The input is *kinou*, for which there are two main
-conversion candidates: 機能 (feature) and 昨日 (yesterday). Notice however,
-that it also supplies several conversions for yesterday's date in various
-formats, including 「平成23年4月21日」 using [Japanese Era Name][wiki_jp_era]
-rather than the Western notation 2011. This is just one small improvement among
-dozens of clever tricks it performs. If you're thinking this bears an uncanny
-resemblance to tricks that [Google's Japanese IME][google_ime] supports, you're
-right: mozc originated from the same codebase.
+TL;DR: because it's better. Have a look at the conversion list up at the top of
+this post. The input is *kinou*, for which there are two main conversion
+candidates: 機能 (feature) and 昨日 (yesterday). Notice however, that it also
+supplies several conversions for yesterday's date in various formats, including
+「平成23年4月21日」 using [Japanese Era Name][wiki_jp_era] rather than the
+Western notation 2011. This is just one small improvement among dozens of
+clever tricks it performs. If you're thinking this bears an uncanny resemblance
+to tricks that [Google's Japanese IME][google_ime] supports, you're right: Mozc
+originated from the same codebase.
 
 
-### Switching to uim-mozc
+### Switching to Mozc
 
-So let's assume you're now convinced to abandon your ibus-anthy and
-switch to uim-mozc. You'll need to make some changes. Here are the
-steps:
+So let's assume you're now convinced to abandon Anthy and switch to Mozc.
+You'll need to make some changes. Here are the steps:
 
 If you haven't yet done so, install some Japanese fonts from either Software
 Centre of Synaptic. I'd recommend grabbing the *ttf-takao* package.
 
-Search for and install the *uim* and *uim-mozc* packages.
+Next up, we'll install and configure Mozc.
 
-Under the *Personal* section of the System Settings, select *Input
-Method*. A dialog will open. Under Global Settings, make the following
-changes:
-
-1. Ensure *Specify default IM* is checked.
-1. Set *Default input method* to 'Mozc'.
-1. Set *Enabled input methods* to 'Mozc' using the *Edit...* button if
-   necessary.
-1. Ensure *Enable IM switching by hotkey* is checked.
-1. Ensure *Skip direct method for IM switch* is checked.
-1. Set *Preedit color* to 'uim'.
-1. Set *Candidate window position* to your preference. Generally
-   'Adjacent to cursor'.
-1. If you set *Show input mode nearby cursor*, a small popup will
-   briefly appear whenever you reposition your cursor, indicating input
-   mode: '-' for romaji or a あ for hiragana.
-
-{{< figure src="/post/2011-04-22-input_method_config.png"
-    alt="UIM configuration dialog box" >}}
-
-Under the Toolbar group, make the following changes:
-
-1. Ensure *Enable menu-based input method switcher* is checked.
-1. Set *Effective coverage* to *whole desktop*.
-1. Ensure *preference tool* is checked.
-
-Click *OK* to save and close the dialog.
-
-In Software Centre, search for and uninstall any *ibus* related
-packages.
+1. **Install ibus-mozc:**
+    ```shell
+    sudo apt-get install ibus-mozc
+    ```
+1. **Restart the ibus daemon:**
+   ```shell
+   /usr/bin/ibus-daemon --xim -r
+   ```
+1. **Set your input method to mozc:**
+   1. Open *Keyboard Input Methods* settings.
+   1. Select the *Input Method* tab.
+   1. From the *Select an input method* drop-down, select Japanese, then mozc from
+      the sub-menu.
+   1. Select *Japanese - Anthy* from the list, if it appears there, and click
+      *Remove*.
+1. **Optionally, remove Anthy from your system:**
+   ```shell
+   sudo apt-get autoremove anthy
+   ```
 
 Log out, and back in. You should see an input method menu in the menu
 bar at the top of the screen.
+
+That's it, Mozcを楽しんでください！
 
 [anthy]: https://sourceforge.jp/projects/anthy/news/
 [google_ime]: https://www.google.com/intl/ja/ime/
