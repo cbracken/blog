@@ -99,18 +99,12 @@ So let's assume you're now convinced to abandon Anthy and switch to Mozc.
 You'll need to make some changes. Here are the steps:
 
 If you haven't yet done so, install some Japanese fonts from either Software
-Centre of Synaptic. I'd recommend grabbing the *ttf-takao* package.
+Centre or Synaptic. I'd recommend grabbing the *ttf-takao* package.
 
 Next up, we'll install and configure Mozc.
 
-1. **Install ibus-mozc:**
-    ```shell
-    sudo apt-get install ibus-mozc
-    ```
-1. **Restart the ibus daemon:**
-   ```shell
-   /usr/bin/ibus-daemon --xim -r
-   ```
+1. **Install ibus-mozc:** `sudo apt-get install ibus-mozc`
+1. **Restart the ibus daemon:** `/usr/bin/ibus-daemon --xim -r`
 1. **Set your input method to mozc:**
    1. Open *Keyboard Input Methods* settings.
    1. Select the *Input Method* tab.
@@ -118,10 +112,7 @@ Next up, we'll install and configure Mozc.
       the sub-menu.
    1. Select *Japanese - Anthy* from the list, if it appears there, and click
       *Remove*.
-1. **Optionally, remove Anthy from your system:**
-   ```shell
-   sudo apt-get autoremove anthy
-   ```
+1. **Optionally, remove Anthy from your system:** `sudo apt-get autoremove anthy`
 
 Log out, and back in. You should see an input method menu in the menu
 bar at the top of the screen.
