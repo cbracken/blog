@@ -143,4 +143,4 @@ AQ==
 [google]: https://google.com
 [email]: mailto:chris@bracken.jp
 [keybase]: https://keybase.io/cbracken
-[site_repo]: https://github.com/cbracken/cbracken.github.io
+[site_repo]: https://github.com/cbracken/blog
