@@ -26,12 +26,12 @@ for [Google][google].
 
 You can drop me a line anytime at [chris@bracken.jp][email].
 
-## About This Site
+## About this site
 
 You can find the source for this site and instructions on how to build it on
 [GitHub][site_repo].
 
-## PGP Public Key
+## PGP public key
 
 If you’re a fan of crypto, you can find me on [keybase.io][keybase]. Here’s my
 PGP public key:
