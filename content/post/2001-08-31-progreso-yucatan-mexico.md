@@ -14,8 +14,7 @@ puts Canadian beaches to shame. On a hot weekend, Progreso makes a fun day
 trip. The wind keeps you cool, and as long as you keep ordering drinks, the
 food comes free at the palapa huts on the beach.<!--more-->
 
-{{< figure src="/post/2001-08-31-palapa.jpg"
-    alt="Palapas on the beach at Progreso" >}}
+{{< figure src="/post/2001-08-31-palapa.jpg" alt="Three beach chairs sit in the shade of a palm-thatched palapa on the beach overlooking the ocean. A small 'lancha' boat is pulled up on the beach. On the left, Progreso's long pier extends over the water towards the horizon." >}}
 
 The one thing that is impossible to miss in Progreso is the pier. At its
 original length of 6 km, it was the longest in all of México, and with its new

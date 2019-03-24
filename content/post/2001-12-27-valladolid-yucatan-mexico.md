@@ -19,7 +19,7 @@ sell traditional *huipiles* near the plaza downtown. The city is still roughly
 centered on the *Cenote Zací* that was the ceremonial centre of the original
 Mayan settlement.
 
-{{< figure src="/post/2001-12-27-cenote.jpg" alt="Cenote Zací" >}}
+{{< figure src="/post/2001-12-27-cenote.jpg" alt="View of Cenote Zací. Stalactites and vines hang from above. A few swimmers can be seen near the edge of the pool. A path leads upwards through the trees." >}}
 
 The cenote is one of the most beautiful I’ve ever seen. To get to it, you hike
 down a passage into a cavern, then wind your way down the side to get to water
@@ -43,7 +43,7 @@ who run through the streets every morning at 5 am. The government of Spain has
 apparently deemed Valladolid to be one of the most Spanish cities in the
 Americas, and donates money to help in its preservation.
 
-{{< figure src="/post/2001-12-27-cenote-top.jpg" alt="Cenote Zací" >}}
+{{< figure src="/post/2001-12-27-cenote-top.jpg" alt="View from above, looking down into Cenote Zací. Vines hang down to the water from above. A stone staircase leads up from the dark blue-green waters. A few scattered fallen leaves litter the surface of the water." >}}
 
 Probably the most exciting thing that happened while we were there was the
 rain. We had gone off in search of what is supposed to be an absolutely amazing
@@ -80,8 +80,7 @@ the country that November when Francisco Madero flew across the border into
 Piedras Negras, Coahuila. The revolution wasn’t over until 1920; but as they
 say, the opening chapters were written in blood, here in Valladolid.
 
-{{< figure src="/post/2001-12-27-truck.jpg" alt="Broken down truck"
-    title="'It hurts more to walk'" >}}
+{{< figure src="/post/2001-12-27-truck.jpg" alt="The rusted carcass of a truck parked on the side of the street. Painted across the front: Duele mas andar a pie (it hurts more to walk). On the bent and twisted remains of the bumper: Asi como me vez te veras (one day, you'll look like this too)." title="'It hurts more to walk'" >}}
 
 Unhappy with Spanish control of a land they considered their own, a small band
 of revolutionaries had worked together for months, planning the overthrow of

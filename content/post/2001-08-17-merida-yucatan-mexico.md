@@ -16,7 +16,7 @@ to the bus station, it was 9 pm, so after checking out the schedule and booking
 tickets, there was just enough time to grab some dinner and get some sleep
 before heading off to Mérida first thing the next morning.<!--more-->
 
-{{< figure src="/post/2001-08-17-cathedral.jpg" alt="The Mérida Cathedral" >}}
+{{< figure src="/post/2001-08-17-cathedral.jpg" alt="Façade of the Mérida cathedral in the evening light. Groups of pedestrians pass along the sidewalk in front as Volkswagen Beetles drive by." >}}
 
 Sitting in a Mexican bus station is an activity in itself. Drenched in sweat
 and surrounded by hundreds of other sweaty people carrying bags, backpacks, and

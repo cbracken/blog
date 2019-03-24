@@ -12,8 +12,7 @@ About halfway between Mérida and Progresso lie the ruins of Dzibilchaltún, an
 important centre in the ancient world of the Maya. The name means 'The place
 with writing on the stones.'<!--more-->
 
-{{< figure src="/post/2001-09-11-munecas-door.jpg"
-    alt="Looking out from inside Templo de las Siete Muñecas" >}}
+{{< figure src="/post/2001-09-11-munecas-door.jpg" alt="View framed by the doorway of the of Templo de las Siete Muñecas looking out over the ruins of a stone building and four-sized stone stela on a raised platform. A path leads past the ruins, through the low jungle, and towards the horizon." >}}
 
 Dzibilchaltún covers an area of about 16 square kilometres, in which there are
 about 8400 structures. The central part of the site covers three square
@@ -34,8 +33,7 @@ there as offerings to the gods. At the other end is a courtyard, a pyramid, a
 ball court and the cenote, as well as an open chapel that was constructed
 during the Colonial era, in the late 16th and early 17th century.
 
-{{< figure src="/post/2001-09-11-munecas-outside.jpg"
-    alt="Templo de las Siete Muñecas" >}}
+{{< figure src="/post/2001-09-11-munecas-outside.jpg" alt="View of the Templo de las Siete Muñecas from the path. In the foreground, a hiker walks toward a large worn stela on a raised platform." >}}
 
 The Temple of the Seven Dolls is probably the most interesting part of the
 site. At least it was to us. At one time, the temple was adorned with plaster

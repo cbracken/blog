@@ -8,8 +8,7 @@ tags:
 title: Quest for a Hammock
 ---
 
-{{< figure src="/post/2001-08-28-old-door.jpg"
-    alt="Crumbling building façade in Mérida" >}}
+{{< figure src="/post/2001-08-28-old-door.jpg" alt="A worn-down wooden door lies framed by a crumbling building façade in Mérida. Traces of faded lettering remain where the paint has not flaked away." >}}
 
 In Mérida, most people sleep in hammocks. Walk down any residential street and
 look in the windows and you’ll see hammocks strung all over the room. What I’m

@@ -8,8 +8,7 @@ tags:
 title: Isla Mujeres, Quintana Roo, México
 ---
 
-{{< figure src="/post/2001-09-06-lancha.jpg"
-    alt="A boat moored off of Playa Norte on Isla Mujeres" >}}
+{{< figure src="/post/2001-09-06-lancha.jpg" alt="A small 'lancha' boat floats in the crystal-clear blue waters of the Caribbean, moored a few metres offshore a white sandy beach." >}}
 
 > Lo que tu eres, yo fui  
 > Lo que yo soy, luego serás  
@@ -48,7 +47,7 @@ turned into a party town full of drunken gringos. The locals appear to want to
 keep it this way, and the local San Francisco store stops selling alcohol at
 8:30 or 9:00 in the evenings.
 
-{{< figure src="/post/2001-09-06-sunset.jpg" alt="Sunset from Playa Norte" >}}
+{{< figure src="/post/2001-09-06-sunset.jpg" alt="In the distance, the silhouette of a lancha passes through the shimmering reflection of the setting sun's light on the ocean." >}}
 
 From the downtown Cancún bus station, we grabbed the Route 13 bus north along
 Avenida Tulum to the Puerto Juarez ferry terminal, then hopped on a boat for
@@ -83,8 +82,7 @@ walkways above the huge walled off section of ocean where the largest of the
 turtles swim, and according to the guy who showed us around, if you fall in,
 'te comen!', 'they eat you!'.
 
-{{< figure src="/post/2001-09-06-skeletons.jpg"
-    alt="Handmade skeleton toys on the sidewalk" >}}
+{{< figure src="/post/2001-09-06-skeletons.jpg" alt="Four small hand-carved wooden skeleton toys playing musical instruments and wearing sombreros sit on the step of a storefront with their feet on the sidewalk. A small wooden armadillo wanders by." >}}
 
 The ruins of Mundaca’s fortress are in the central part of the island, and if
 you want to be eaten alive by mosquitos (there are Dengue Fever warnings all
@@ -112,8 +110,7 @@ life-jacket wearing, water spitting drowners. I did get rammed in the legs by a
 nurse shark though. It felt like sandpaper and was among the creepier
 sensations I have experienced in my life.
 
-{{< figure src="/post/2001-09-06-nativity-scene.jpg"
-    alt="Isla Mujeres underwater-themed nativity scene" >}}
+{{< figure src="/post/2001-09-06-nativity-scene.jpg" alt="The gazebo at the centre of the Isla Mujeres plaza decorated in an underwater-themed nativity scene. The virgin mary stands at the centre, her hands in prayer. Fishing nets filled with starfish, tropical fish, and multi-coloured Christmas lights surround the gazebo." >}}
 
 There are also some Mayan ruins at the south tip of the island, though there’s
 very little left of them. Most of the ruins have been hurled into the ocean by

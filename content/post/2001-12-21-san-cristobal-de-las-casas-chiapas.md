@@ -17,8 +17,7 @@ day-trips to the surrounding villages of San Juan Chamula and
 Zinacantán—indigenous villages comprising the Tzotzil and Tzeltal indigenous
 groups respectively.<!--more-->
 
-{{< figure src="/post/2001-12-21-plaza.jpg"
-    alt="Plaza in San Cristóbal de las Casas" >}}
+{{< figure src="/post/2001-12-21-plaza.jpg" alt="The bright yellow façade of a catheral faces the main plaza in San Cristóbal de las Casas. Pedestrials mill about the square in groups." >}}
 
 In town, we met a law student named Luís who took a group of us to the
 villages. In San Juan Chamula, we first visited the shaman’s hut for the
@@ -47,8 +46,7 @@ sell them at the markets and on the street. The textiles are all made from
 hand, from the thread, to hand-weaving and embroidering. Typically, a
 medium-sized blanket takes two to three weeks to produce.
 
-{{< figure src="/post/2001-12-21-beans.jpg"
-    alt="Beans for sale at the market" >}}
+{{< figure src="/post/2001-12-21-beans.jpg" alt="Dozens of varieties of dried beans in many colours arrayed for sale in bins and large sacks for sale at the market" >}}
 
 Back in San Cristóbal, we spent a few days visiting the markets and wandering
 around town trying out the local food before heading back north for Palenque

@@ -15,8 +15,7 @@ in Meso-America. The close proximity of the ruins to Cancún and the size of
 some of the structures have made these the most famous Mayan ruins in the
 country.<!--more-->
 
-{{< figure src="/post/2001-12-26-el-castillo.jpg"
-    alt="El Castillo pyramid at Chichen Itzá" >}}
+{{< figure src="/post/2001-12-26-el-castillo.jpg" alt="A view from the ground below the El Castillo pyramid at Chichen Itzá. Visitors climb the steep staircase leading up the centre of the face of the pyramid. A few people stand silhouetted at the top, looking down on the surrouding jungle." >}}
 
 The image that most people associate with Chichen Itzá is *El Castillo*. The
 pyramid rises more than 23 metres above the ground, with steep staircases up
@@ -42,8 +41,7 @@ hot and humid, not to mention dark, but the climb is worth it. Eventually, at
 the top of the staircase, if you’re lucky or pushy enough, you can catch a
 glimpse of a jewel-encrusted jaguar altar, used by the Maya for sacrifices.
 
-{{< figure src="/post/2001-12-26-ball-court.jpg"
-    alt="The ball court at Chichen Itzá" >}}
+{{< figure src="/post/2001-12-26-ball-court.jpg" alt="The ball court at Chichen Itzá. Large, perfectly flat stone walls rise above the grass. Two stone hoops protrude, one from each wall, facing sideways. A crowd of people stands at the far end of the court." >}}
 
 The Ball Court is another feat of engineering. The walls are each approximately
 8 metres high, with structures at the top for viewing the game. At either end

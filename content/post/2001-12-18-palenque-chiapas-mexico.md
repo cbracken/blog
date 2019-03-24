@@ -14,8 +14,7 @@ unstable state during the past 10 years, it is also home to some of the most
 incredible scenery, archaeological sites and indigenous culture in the
 country.<!--more-->
 
-{{< figure src="/post/2001-12-18-temple-of-inscriptions.jpg"
-    alt="Mayan ruins of the Temple of the Inscriptions at Palenque" >}}
+{{< figure src="/post/2001-12-18-temple-of-inscriptions.jpg" alt="The Mayan ruins of the Temple of the Inscriptions at Palenque towering over a courtyard surrounded by jungle. A large staircase leads up the main face of the pyramid. Rain pours down in torrents." >}}
 
 The town of Palenque sits only a few minutes by bike, foot or bus from the
 ruins of the ancient Mayan city of Palenque. The ruins themselves extend over a

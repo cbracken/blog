@@ -19,8 +19,7 @@ stops along a long, empty stretch of highway. We grabbed a plate of
 up) was blue. Sort of an off-grey blue. It tasted like milk mixed with
 dishwater.
 
-{{< figure src="/post/2001-12-24-tulum.jpg"
-    alt="Mayan ruins overlooking the ocean at Tulúm" >}}
+{{< figure src="/post/2001-12-24-tulum.jpg" alt="Mayan ruins sit on a bluff of rock covered with low scrub overlooking the Caribbean. Below, waves crash against the rocks." >}}
 
 The best time to see the ruins is, without a doubt, sunrise. The ruins at
 Tulúm, while not spectacular except for the two-metre rock wall surrounding the
