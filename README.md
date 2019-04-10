@@ -20,7 +20,7 @@ Next, initialise and fetch git submodules:
 git submodule update --init
 ```
 
-## Building and running
+## Starting the dev server
 
 Fire up hugo's dev server:
 ```
@@ -44,5 +44,18 @@ Edit `content/post/yyyy-mm-dd-title-of-post.md` in your favourite editor. When
 it's ready to post, remove the `draft` tag from the post header, commit the
 changes, and push.
 
+## Building and deploying the site
+
+The site is currently published to [GitHub pages][pages_repo]. That repo
+contains a [CNAME][pages_cname] file that tells GitHub the site should resolve
+to my personal domain.
+
+To build and deploy the site, run:
+```
+./publish.sh
+```
+
 [blog]: https://chris.bracken.jp
 [hugo_install]: https://gohugo.io/getting-started/installing/
+[pages_repo]: https://github.com/cbracken/cbracken.github.io
+[pages_cname]: https://github.com/cbracken/cbracken.github.io/blob/master/CNAME
