@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2011-05-06T00:00:00Z"
 tags:
 - Google

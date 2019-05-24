@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2008-10-26T00:00:00Z"
 tags:
 - Cycling

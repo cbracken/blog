@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2002-03-21T00:00:00Z"
 image: 2002-03-21-trinidad-street.jpg
 tags:

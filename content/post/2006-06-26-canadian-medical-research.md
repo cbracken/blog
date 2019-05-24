@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2006-06-26T00:00:00Z"
 tags:
 - Canada

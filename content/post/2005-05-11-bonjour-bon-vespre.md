@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2005-05-11T00:00:00Z"
 tags:
 - Travel

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2001-09-11T00:00:00Z"
 image: 2001-09-11-munecas-door.jpg
 tags:

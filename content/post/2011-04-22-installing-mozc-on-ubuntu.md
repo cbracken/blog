@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2011-04-22T00:00:00Z"
 tags:
 - Howto

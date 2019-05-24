@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2005-08-05T00:00:00Z"
 tags:
 - Meta

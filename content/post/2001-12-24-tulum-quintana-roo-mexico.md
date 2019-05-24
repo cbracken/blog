@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2001-12-24T00:00:00Z"
 image: 2001-12-24-tulum.jpg
 tags:

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2008-08-22T00:00:00Z"
 tags:
 - Japan

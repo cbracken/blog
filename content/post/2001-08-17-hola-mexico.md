@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2001-08-17T11:00:00Z"
 tags:
 - Mexico

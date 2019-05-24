@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2005-04-09T00:00:00Z"
 image: 2005-04-09-sakura.jpg
 tags:

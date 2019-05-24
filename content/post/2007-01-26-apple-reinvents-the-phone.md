@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2007-01-26T00:00:00Z"
 tags:
 - iPhone

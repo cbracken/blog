@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2001-12-21T00:00:00Z"
 image: 2001-12-21-plaza.jpg
 tags:

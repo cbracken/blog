@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2001-08-17T16:00:00Z"
 image: 2001-08-17-cathedral.jpg
 tags:

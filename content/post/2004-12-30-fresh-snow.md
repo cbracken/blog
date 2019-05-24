@@ -1,5 +1,4 @@
 ---
-comments: true
 date: "2004-12-30T00:00:00Z"
 image: 2004-12-30-fuji.jpg
 tags:
