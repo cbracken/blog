@@ -1,6 +1,5 @@
 ---
 date: "2001-12-18T00:00:00Z"
-image: 2001-12-18-temple-of-inscriptions.jpg
 tags:
 - Mexico
 - Travel

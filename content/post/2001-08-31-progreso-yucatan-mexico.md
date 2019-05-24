@@ -1,6 +1,5 @@
 ---
 date: "2001-08-31T10:00:00Z"
-image: 2001-08-31-palapa.jpg
 tags:
 - Mexico
 - Travel

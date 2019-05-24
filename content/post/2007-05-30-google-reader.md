@@ -1,6 +1,5 @@
 ---
 date: "2007-05-30T00:00:00Z"
-image: 2007-05-30-google-reader.png
 tags:
 - Software
 - Web

@@ -1,6 +1,5 @@
 ---
 date: "2001-08-31T14:00:00Z"
-image: 2001-08-31-chelem.jpg
 tags:
 - Mexico
 - Travel

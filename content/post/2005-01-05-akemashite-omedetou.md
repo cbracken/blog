@@ -1,6 +1,5 @@
 ---
 date: "2005-01-05T00:00:00Z"
-image: 2005-01-05-yasaka.jpg
 tags:
 - Japan
 title: 明けましておめでとうございます！

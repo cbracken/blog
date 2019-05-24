@@ -1,6 +1,5 @@
 ---
 date: "2001-09-06T00:00:00Z"
-image: 2001-09-06-lancha.jpg
 tags:
 - Mexico
 - Travel

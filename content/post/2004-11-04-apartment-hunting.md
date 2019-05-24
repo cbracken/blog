@@ -1,6 +1,5 @@
 ---
 date: "2004-11-04T00:00:00Z"
-image: 2004-11-04-balcony.jpg
 title: Apartment Hunting
 ---
 

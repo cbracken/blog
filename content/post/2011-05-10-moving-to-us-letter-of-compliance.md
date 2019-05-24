@@ -1,6 +1,5 @@
 ---
 date: "2011-05-10T00:00:00Z"
-image: 2011-05-10-futile.jpg
 tags:
 - Canada
 - Howto

@@ -1,6 +1,5 @@
 ---
 date: "2001-08-28T00:00:00Z"
-image: 2001-08-28-old-door.jpg
 tags:
 - Mexico
 - Travel
