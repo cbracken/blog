@@ -1,6 +1,7 @@
 +++
 title = "Apartment Hunting"
 date = "2004-11-04T00:00:00Z"
+slug = "apartment-hunting"
 tags = ["Japan"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Quest for a Hammock"
 date = "2001-08-28T00:00:00Z"
+slug = "quest-for-a-hammock"
 tags = ["Mexico", "Travel"]
 +++
 

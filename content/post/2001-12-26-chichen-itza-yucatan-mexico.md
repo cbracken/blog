@@ -1,6 +1,7 @@
 +++
 title = "Chichen Itzá, Yucatán, México"
 date = "2001-12-26T00:00:00Z"
+slug = "chichen-itza-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

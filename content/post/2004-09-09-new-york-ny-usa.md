@@ -1,6 +1,7 @@
 +++
 title = "New York, NY, USA"
 date = "2004-09-09T00:00:00Z"
+slug = "new-york-ny-usa"
 tags = ["Travel", "USA"]
 +++
 

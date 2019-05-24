@@ -19,6 +19,9 @@ paginate = 5
   priority = 0.5
   filename = "sitemap.xml"
 
+[permalinks]
+  post = "/:year/:month/:slug/"
+
 [[menu.main]]
   name = "Home"
   weight = 10

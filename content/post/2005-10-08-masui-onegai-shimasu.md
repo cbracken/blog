@@ -1,6 +1,7 @@
 +++
 title = "麻酔お願いします！"
 date = "2005-10-08T00:00:00Z"
+slug = "masui-onegai-shimasu"
 tags = ["Japan"]
 +++
 

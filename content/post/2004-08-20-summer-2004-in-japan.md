@@ -1,6 +1,7 @@
 +++
 title = "Summer 2004 in Japan"
 date = "2004-08-20T00:00:00Z"
+slug = "summer-2004-in-japan"
 tags = ["Japan", "Travel"]
 +++
 

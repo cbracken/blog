@@ -1,6 +1,7 @@
 +++
 title = "Progreso, Yucatán, México"
 date = "2001-08-31T10:00:00Z"
+slug = "progreso-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

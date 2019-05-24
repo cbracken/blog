@@ -1,6 +1,7 @@
 +++
 title = "Mérida, Yucatán, México"
 date = "2001-08-17T16:00:00Z"
+slug = "merida-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

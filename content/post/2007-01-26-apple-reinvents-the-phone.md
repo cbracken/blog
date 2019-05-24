@@ -1,6 +1,7 @@
 +++
 title = "Apple Reinvents the Phone?"
 date = "2007-01-26T00:00:00Z"
+slug = "apple-reinvents-the-iphone"
 tags = ["iPhone", "Japan"]
 +++
 

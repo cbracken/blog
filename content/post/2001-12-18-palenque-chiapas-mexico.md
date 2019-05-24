@@ -1,6 +1,7 @@
 +++
 title = "Palenque, Chiapas, México"
 date = "2001-12-18T00:00:00Z"
+slug = "palenque-chiapas-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

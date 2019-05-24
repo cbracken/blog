@@ -1,6 +1,7 @@
 +++
 title = "桜吹雪"
 date = "2005-04-09T00:00:00Z"
+slug = "sakura-fubuki"
 tags = ["Japan"]
 +++
 

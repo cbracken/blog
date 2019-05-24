@@ -1,6 +1,7 @@
 +++
 title = "Isla Mujeres, Quintana Roo, México"
 date = "2001-09-06T00:00:00Z"
+slug = "isla-mujeres-quintana-roo-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

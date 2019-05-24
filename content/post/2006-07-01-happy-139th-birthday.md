@@ -1,6 +1,7 @@
 +++
 title = "Happy 139th Birthday!"
 date = "2006-07-01T00:00:00Z"
+slug = "happy-139th-birthday"
 tags = ["Canada", "Japan"]
 +++
 

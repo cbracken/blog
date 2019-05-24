@@ -1,6 +1,7 @@
 +++
 title = "Monkey Madness"
 date = "2008-08-22T00:00:00Z"
+slug = "monkey-madness"
 tags = ["Japan", "WTF"]
 +++
 

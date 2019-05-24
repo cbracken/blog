@@ -1,6 +1,7 @@
 +++
 title = "Job Search, Search Job"
 date = "2011-05-06T00:00:00Z"
+slug = "job-search-search-job"
 tags = ["Google", "MorganStanley"]
 +++
 

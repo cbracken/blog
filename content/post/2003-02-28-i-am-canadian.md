@@ -1,6 +1,7 @@
 +++
-title = "I Am Canadian"
+title = "I am Canadian"
 date = "2003-02-28T00:00:00Z"
+slug = "i-am-canadian"
 tags = ["Canada"]
 +++
 

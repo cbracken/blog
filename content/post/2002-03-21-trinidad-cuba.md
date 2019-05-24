@@ -1,6 +1,7 @@
 +++
 title = "Trinidad, Sancti Spiritus, Cuba"
 date = "2002-03-21T00:00:00Z"
+slug = "trinidad-sancti-spiritus-cuba"
 tags = ["Cuba", "Travel"]
 +++
 

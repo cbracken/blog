@@ -1,6 +1,7 @@
 +++
 title = "Dzibilchaltún, Yucatán, México"
 date = "2001-09-11T00:00:00Z"
+slug = "dzibilchaltun-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

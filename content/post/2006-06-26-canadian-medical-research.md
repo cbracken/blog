@@ -1,6 +1,7 @@
 +++
 title = "Canadian Medical Research"
 date = "2006-06-26T00:00:00Z"
+slug = "canadian-medical-research"
 tags = ["Canada", "WTF"]
 +++
 

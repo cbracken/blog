@@ -1,6 +1,7 @@
 +++
 title = "Izamal, Yucatán, México"
 date = "2001-08-30T00:00:00Z"
+slug = "izamal-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

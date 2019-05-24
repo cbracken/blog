@@ -1,6 +1,7 @@
 +++
 title = "San Cristóbal de las Casas, Chiapas, México"
 date = "2001-12-21T00:00:00Z"
+slug = "san-cristobal-de-las-casas-chiapas-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

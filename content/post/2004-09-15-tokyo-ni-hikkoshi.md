@@ -1,6 +1,7 @@
 +++
 title = "東京に引越しする！"
 date = "2004-09-15T00:00:00Z"
+slug = "tokyo-ni-hikkoshi"
 tags = ["Japan"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Moving to the US: Importing a Canadian Vehicle"
 date = "2011-05-10T00:00:00Z"
+slug = "moving-to-us-letter-of-compliance"
 tags = ["Canada", "Howto", "USA"]
 +++
 

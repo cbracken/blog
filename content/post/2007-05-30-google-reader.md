@@ -1,6 +1,7 @@
 +++
 title = "Google Reader"
 date = "2007-05-30T00:00:00Z"
+slug = "google-reader"
 tags = ["Software", "Web"]
 +++
 

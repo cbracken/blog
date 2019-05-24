@@ -1,6 +1,7 @@
 +++
 title = "A Mystery Solved"
 date = "2006-09-02T00:00:00Z"
+slug = "mystery-solved"
 tags = ["Japan"]
 +++
 

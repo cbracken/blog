@@ -1,6 +1,7 @@
 +++
 title = "¡Feliz Navidad!"
 date = "2002-01-01T00:00:00Z"
+slug = "feliz-navidad"
 tags = ["Mexico"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "結婚してくれますか？"
 date = "2005-07-31T00:00:00Z"
+slug = "kekkon-shite-kuremasu-ka"
 tags = ["Japan"]
 +++
 

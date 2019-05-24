@@ -1,6 +1,7 @@
 +++
 title = "Valladolid, Yucatán, México"
 date = "2001-12-27T00:00:00Z"
+slug = "valladolid-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

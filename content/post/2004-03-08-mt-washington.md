@@ -1,6 +1,7 @@
 +++
 title = "Mt. Washington"
 date = "2004-03-08T00:00:00Z"
+slug = "mt-washington"
 tags = ["Canada", "Skiing"]
 +++
 

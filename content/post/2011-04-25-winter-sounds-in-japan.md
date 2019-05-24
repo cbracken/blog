@@ -1,6 +1,7 @@
 +++
 title = "Winter Sounds in Japan"
 date = "2011-04-25T00:00:00Z"
+slug = "winter-sounds-in-japan"
 tags = ["Japan"]
 +++
 

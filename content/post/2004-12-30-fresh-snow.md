@@ -1,6 +1,7 @@
 +++
 title = "Fresh Snow"
 date = "2004-12-30T00:00:00Z"
+slug = "fresh-snow"
 tags = ["Japan"]
 +++
 

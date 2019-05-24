@@ -1,6 +1,7 @@
 +++
 title = "Installing Mozc on Ubuntu"
 date = "2011-04-22T00:00:00Z"
+slug = "installing-mozc-on-ubuntu"
 tags = ["Howto", "Japanese", "Linux", "Software"]
 +++
 

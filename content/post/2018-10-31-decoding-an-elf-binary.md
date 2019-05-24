@@ -1,6 +1,7 @@
 +++
 title = "Hand-decoding an ELF binary image"
 date = "2018-10-31T00:00:00Z"
+slug = "decoding-an-elf-binary"
 tags = ["Software"]
 +++
 

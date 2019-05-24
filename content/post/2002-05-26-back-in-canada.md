@@ -1,6 +1,7 @@
 +++
 title = "Back in Canada"
 date = "2002-05-26T00:00:00Z"
+slug = "back-in-canada"
 tags = ["Canada", "Travel"]
 +++
 

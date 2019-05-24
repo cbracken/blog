@@ -1,6 +1,7 @@
 +++
 title = "Tulúm, Quintana Roo, México"
 date = "2001-12-24T00:00:00Z"
+slug = "tulum-quintana-roo-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

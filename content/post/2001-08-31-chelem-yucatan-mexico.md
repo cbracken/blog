@@ -1,6 +1,7 @@
 +++
-title = "Chelem, Yuctán, México"
+title = "Chelem, Yucatán, México"
 date = "2001-08-31T14:00:00Z"
+slug = "chelem-yucatan-mexico"
 tags = ["Mexico", "Travel"]
 +++
 

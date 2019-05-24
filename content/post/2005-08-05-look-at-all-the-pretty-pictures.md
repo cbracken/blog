@@ -1,6 +1,7 @@
 +++
 title = "Look At All The Pretty Pictures!"
 date = "2005-08-05T00:00:00Z"
+slug = "look-at-all-the-pretty-pictures"
 tags = ["Meta"]
 +++
 

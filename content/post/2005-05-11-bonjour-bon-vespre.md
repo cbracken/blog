@@ -1,6 +1,7 @@
 +++
 title = "Bonjour, Bon Vespre!"
 date = "2005-05-11T00:00:00Z"
+slug = "bonjour-bon-vespre"
 tags = ["Travel"]
 +++
 

@@ -1,6 +1,7 @@
 +++
 title = "Site Update"
 date = "2003-04-01T00:00:00Z"
+slug = "site-update"
 tags = ["Meta"]
 +++
 
