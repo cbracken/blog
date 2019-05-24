@@ -1,9 +1,8 @@
----
-date: "2005-10-08T00:00:00Z"
-tags:
-- Japan
-title: 麻酔お願いします！
----
++++
+title = "麻酔お願いします！"
+date = "2005-10-08T00:00:00Z"
+tags = ["Japan"]
++++
 
 Yesterday was my first trip to the dentist in years. The last time was just
 before moving to Mexico, in the summer of 2001. As you might imagine, I was not

@@ -1,10 +1,8 @@
----
-date: "2001-08-17T16:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Mérida, Yucatán, México
----
++++
+title = "Mérida, Yucatán, México"
+date = "2001-08-17T16:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Arrived in Cancún on Friday at about 6 pm, took out some money from the bank
 machine, and hopped into a colectivo¹ for Ciudad Cancún—the city itself—a

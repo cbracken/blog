@@ -1,9 +1,8 @@
----
-date: "2003-02-28T00:00:00Z"
-tags:
-- Canada
-title: I Am Canadian
----
++++
+title = "I Am Canadian"
+date = "2003-02-28T00:00:00Z"
+tags = ["Canada"]
++++
 
 Since the original *[I am Canadian][yt_rant]* ad, Molson has released a slew of others,
 but until recently, I haven’t been too impressed; however, the *I Am Canadian

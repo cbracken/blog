@@ -1,10 +1,8 @@
----
-date: "2001-12-21T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: San Cristóbal de las Casas, Chiapas, México
----
++++
+title = "San Cristóbal de las Casas, Chiapas, México"
+date = "2001-12-21T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 San Cristóbal is, without question, one of the most beautiful towns in Mexico.
 It’s also the ideal temperature for visiting Canadians, with the temperature

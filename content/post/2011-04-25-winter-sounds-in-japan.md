@@ -1,9 +1,8 @@
----
-date: "2011-04-25T00:00:00Z"
-tags:
-- Japan
-title: Winter Sounds in Japan
----
++++
+title = "Winter Sounds in Japan"
+date = "2011-04-25T00:00:00Z"
+tags = ["Japan"]
++++
 
 There are a lot of uniquely Japanese sounds.  But the two I'm writing
 about today appear on cold winter nights, and echo eerily through the

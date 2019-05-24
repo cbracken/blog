@@ -1,10 +1,8 @@
----
-date: "2001-08-31T14:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Chelem, Yuctán, México
----
++++
+title = "Chelem, Yuctán, México"
+date = "2001-08-31T14:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Grabbed a bus north to Progreso to go to the beach. While it was beautiful
 weather and the ocean looked great, there were no palm trees on the beach, so

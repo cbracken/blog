@@ -1,9 +1,8 @@
----
-date: "2006-09-02T00:00:00Z"
-tags:
-- Japan
-title: A Mystery Solved
----
++++
+title = "A Mystery Solved"
+date = "2006-09-02T00:00:00Z"
+tags = ["Japan"]
++++
 
 One of my biggest complaints about Japan has always been the complete and utter
 lack of garbage bins in this city. There are none to be found.<!--more-->

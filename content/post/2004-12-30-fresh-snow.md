@@ -1,9 +1,8 @@
----
-date: "2004-12-30T00:00:00Z"
-tags:
-- Japan
-title: Fresh Snow
----
++++
+title = "Fresh Snow"
+date = "2004-12-30T00:00:00Z"
+tags = ["Japan"]
++++
 
 {{< figure src="/post/2004-12-30-fuji.jpg"
     alt="View of Mt. Fuji from Ebisu Garden Place" >}}

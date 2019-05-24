@@ -1,9 +1,8 @@
----
-date: "2005-05-11T00:00:00Z"
-tags:
-- Travel
-title: Bonjour, Bon Vespre!
----
++++
+title = "Bonjour, Bon Vespre!"
+date = "2005-05-11T00:00:00Z"
+tags = ["Travel"]
++++
 
 Just how far can you travel in a week and a half? It turns out pretty far.
 Combining planes, trains, ships, and automobiles, Yasuko and I travelled, all

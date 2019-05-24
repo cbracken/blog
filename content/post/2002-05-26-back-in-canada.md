@@ -1,10 +1,8 @@
----
-date: "2002-05-26T00:00:00Z"
-tags:
-- Canada
-- Travel
-title: Back in Canada
----
++++
+title = "Back in Canada"
+date = "2002-05-26T00:00:00Z"
+tags = ["Canada", "Travel"]
++++
 
 Back in Victoria, B.C. after a two month return home to Canada by land beginning
 in Mérida, Yucatán and continuing through Cuba, Belize, Guatemala, Honduras,

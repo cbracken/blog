@@ -1,9 +1,8 @@
----
-date: "2004-09-15T00:00:00Z"
-tags:
-- Japan
-title: 東京に引越しする！
----
++++
+title = "東京に引越しする！"
+date = "2004-09-15T00:00:00Z"
+tags = ["Japan"]
++++
 
 After two years back in Canada and several trips back and forth to Japan, I’ve
 signed a full-time contract as a software developer with a firm in Tokyo and am

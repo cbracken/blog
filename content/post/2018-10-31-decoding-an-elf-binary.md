@@ -1,9 +1,8 @@
----
-date: "2018-10-31T00:00:00Z"
-tags:
-- Software
-title: "Hand-decoding an ELF binary image"
----
++++
+title = "Hand-decoding an ELF binary image"
+date = "2018-10-31T00:00:00Z"
+tags = ["Software"]
++++
 
 While recovering from some dentistry the other day I figured I'd have a go at
 better understanding the ELF binary format. What better way to do that than to

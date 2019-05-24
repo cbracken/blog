@@ -1,10 +1,8 @@
----
-date: "2001-12-18T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Palenque, Chiapas, México
----
++++
+title = "Palenque, Chiapas, México"
+date = "2001-12-18T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 For Christmas, we decided to take a trip to the state of Chiapas, about an 8
 hour bus ride from Mérida. Although Chiapas has been a somewhat politically

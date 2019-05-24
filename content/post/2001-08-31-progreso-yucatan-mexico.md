@@ -1,10 +1,8 @@
----
-date: "2001-08-31T10:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Progreso, Yucatán, México
----
++++
+title = "Progreso, Yucatán, México"
+date = "2001-08-31T10:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Half an hour north of Mérida is the port town of Progreso. Though it’s on the
 gulf side of the peninsula, the water is still a beautiful turquoise-blue; it

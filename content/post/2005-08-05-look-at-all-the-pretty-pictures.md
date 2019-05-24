@@ -1,9 +1,8 @@
----
-date: "2005-08-05T00:00:00Z"
-tags:
-- Meta
-title: Look At All The Pretty Pictures!
----
++++
+title = "Look At All The Pretty Pictures!"
+date = "2005-08-05T00:00:00Z"
+tags = ["Meta"]
++++
 
 So I moved my webpage and was all of a sudden faced with a deluge of emails
 from people who I never even knew read the thing. Among those emails was a

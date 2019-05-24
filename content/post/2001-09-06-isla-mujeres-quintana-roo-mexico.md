@@ -1,10 +1,8 @@
----
-date: "2001-09-06T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Isla Mujeres, Quintana Roo, México
----
++++
+title = "Isla Mujeres, Quintana Roo, México"
+date = "2001-09-06T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 {{< figure src="/post/2001-09-06-lancha.jpg" alt="A small 'lancha' boat floats in the crystal-clear blue waters of the Caribbean, moored a few metres offshore a white sandy beach." >}}
 

@@ -1,10 +1,8 @@
----
-date: "2001-12-24T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Tulúm, Quintana Roo, México
----
++++
+title = "Tulúm, Quintana Roo, México"
+date = "2001-12-24T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Between San Cristóbal and Tulúm is a long, empty road. The overnight bus works
 beautifully for this trip, winding its way through the mountains, jungle and

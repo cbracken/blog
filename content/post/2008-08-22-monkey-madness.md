@@ -1,10 +1,8 @@
----
-date: "2008-08-22T00:00:00Z"
-tags:
-- Japan
-- WTF
-title: Monkey Madness
----
++++
+title = "Monkey Madness"
+date = "2008-08-22T00:00:00Z"
+tags = ["Japan", "WTF"]
++++
 
 How many police does it take to catch a monkey in one of Tokyo's busiest train
 stations? Apparently a lot more than the [40 or so that

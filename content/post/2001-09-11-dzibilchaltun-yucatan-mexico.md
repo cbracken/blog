@@ -1,10 +1,8 @@
----
-date: "2001-09-11T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Dzibilchaltún, Yucatán, México
----
++++
+title = "Dzibilchaltún, Yucatán, México"
+date = "2001-09-11T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 About halfway between Mérida and Progresso lie the ruins of Dzibilchaltún, an
 important centre in the ancient world of the Maya. The name means 'The place

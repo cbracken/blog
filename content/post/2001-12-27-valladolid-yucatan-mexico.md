@@ -1,10 +1,8 @@
----
-date: "2001-12-27T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Valladolid, Yucatán, México
----
++++
+title = "Valladolid, Yucatán, México"
+date = "2001-12-27T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 In 1543, Francisco de Montejo (the nephew of Mérida’s famous Francisco de
 Montejo) descended on the ceremonial centre of the Zací (Hawk) Maya, waging war

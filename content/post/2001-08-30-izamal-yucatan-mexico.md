@@ -1,10 +1,8 @@
----
-date: "2001-08-30T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Izamal, Yucatán, México
----
++++
+title = "Izamal, Yucatán, México"
+date = "2001-08-30T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Took a trip a few towns to the east this morning, to Izamal. While Mérida is
 known throughout México as the White City, Izamal is referred to as the Yellow

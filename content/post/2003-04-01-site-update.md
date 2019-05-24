@@ -1,9 +1,8 @@
----
-date: "2003-04-01T00:00:00Z"
-tags:
-- Meta
-title: Site Update
----
++++
+title = "Site Update"
+date = "2003-04-01T00:00:00Z"
+tags = ["Meta"]
++++
 
 I finally got around to updating and re-organizing the site. It should render
 properly in everything from the latest browser to lynx or a text-based browser

@@ -1,12 +1,8 @@
----
-date: "2011-04-22T00:00:00Z"
-tags:
-- Howto
-- Japanese
-- Linux
-- Software
-title: Installing Mozc on Ubuntu
----
++++
+title = "Installing Mozc on Ubuntu"
+date = "2011-04-22T00:00:00Z"
+tags = ["Howto", "Japanese", "Linux", "Software"]
++++
 
 If you're a Japanese speaker, one of the first things you do when you install a
 fresh Linux distribution is to install a decent [Japanese IME][wiki_ime].

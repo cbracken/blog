@@ -1,10 +1,8 @@
----
-date: "2002-03-21T00:00:00Z"
-tags:
-- Cuba
-- Travel
-title: Trinidad, Sancti Spiritus, Cuba
----
++++
+title = "Trinidad, Sancti Spiritus, Cuba"
+date = "2002-03-21T00:00:00Z"
+tags = ["Cuba", "Travel"]
++++
 
 Looking down on the ocean from the rolling hills a kilometre away, Trinidad is
 a small, traditional town whose population of 50,000 takes great pride in its

@@ -1,11 +1,8 @@
----
-date: "2011-05-10T00:00:00Z"
-tags:
-- Canada
-- Howto
-- USA
-title: 'Moving to the US: Importing a Canadian Vehicle'
----
++++
+title = "Moving to the US: Importing a Canadian Vehicle"
+date = "2011-05-10T00:00:00Z"
+tags = ["Canada", "Howto", "USA"]
++++
 
 A big difference between the last time I moved to the US and this time is that
 this time, I've got a lot more stuff. One of those things is a recent-vintage

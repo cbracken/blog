@@ -1,10 +1,8 @@
----
-date: "2008-10-26T00:00:00Z"
-tags:
-- Cycling
-- Japan
-title: Ride to Okutama-ko and back
----
++++
+title = "Ride to Okutama-ko and back"
+date = "2008-10-26T00:00:00Z"
+tags = ["Cycling", "Japan"]
++++
 
 [View map][map]
 

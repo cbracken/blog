@@ -1,9 +1,8 @@
----
-date: "2005-04-09T00:00:00Z"
-tags:
-- Japan
-title: 桜吹雪
----
++++
+title = "桜吹雪"
+date = "2005-04-09T00:00:00Z"
+tags = ["Japan"]
++++
 
 Last weekend, the temperature shot up to 23 degrees, and in the space of two
 days, the cherry blossom trees erupted into bloom. The Japanese take this

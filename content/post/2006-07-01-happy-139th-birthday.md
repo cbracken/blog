@@ -1,10 +1,8 @@
----
-date: "2006-07-01T00:00:00Z"
-tags:
-- Canada
-- Japan
-title: Happy 139th Birthday!
----
++++
+title = "Happy 139th Birthday!"
+date = "2006-07-01T00:00:00Z"
+tags = ["Canada", "Japan"]
++++
 
 Canadians in Tokyo got a head start on the Canada Day celebrations, kicking
 things off at 8:30 am with a pancake breakfast at the [Maple Leaf Bar &

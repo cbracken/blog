@@ -1,11 +1,8 @@
----
-date: "2011-05-06T00:00:00Z"
-tags:
-- Google
-- MorganStanley
-- News
-title: Job Search, Search Job
----
++++
+title = "Job Search, Search Job"
+date = "2011-05-06T00:00:00Z"
+tags = ["Google", "MorganStanley"]
++++
 
 After close to seven fantastic years with [Morgan Stanley][ms], I've turned in
 my badge and exited world of finance.<!--more--> I first joined Morgan in Tokyo

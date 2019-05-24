@@ -1,9 +1,8 @@
----
-date: "2005-07-31T00:00:00Z"
-tags:
-- Japan
-title: 結婚してくれますか？
----
++++
+title = "結婚してくれますか？"
+date = "2005-07-31T00:00:00Z"
+tags = ["Japan"]
++++
 
 The big news is that Yasuko and I will be getting married in November at
 Shimogamo Shrine in Kyoto. For the desperately curious, I 'officially' proposed

@@ -1,10 +1,8 @@
----
-date: "2007-01-26T00:00:00Z"
-tags:
-- iPhone
-- Japan
-title: Apple Reinvents the Phone?
----
++++
+title = "Apple Reinvents the Phone?"
+date = "2007-01-26T00:00:00Z"
+tags = ["iPhone", "Japan"]
++++
 
 *Update (2009-02-28)*: Alright, guilty as charged. "No wireless. Less space than
 a nomad. [Lame](https://slashdot.org/story/01/10/23/1816257/Apple-releases-iPod).

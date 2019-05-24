@@ -1,10 +1,8 @@
----
-date: "2007-05-30T00:00:00Z"
-tags:
-- Software
-- Web
-title: Google Reader
----
++++
+title = "Google Reader"
+date = "2007-05-30T00:00:00Z"
+tags = ["Software", "Web"]
++++
 
 For years, I've been a fan of [Brent Simmons'][inessential] OS X-based feed
 reader, [NetNewsWire][nnw]. It's a fantastic application, and I've definitely

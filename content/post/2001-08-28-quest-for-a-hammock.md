@@ -1,10 +1,8 @@
----
-date: "2001-08-28T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Quest for a Hammock
----
++++
+title = "Quest for a Hammock"
+date = "2001-08-28T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 {{< figure src="/post/2001-08-28-old-door.jpg" alt="A worn-down wooden door lies framed by a crumbling building façade in Mérida. Traces of faded lettering remain where the paint has not flaked away." >}}
 

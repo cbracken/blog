@@ -1,10 +1,8 @@
----
-date: "2006-06-26T00:00:00Z"
-tags:
-- Canada
-- WTF
-title: Canadian Medical Research
----
++++
+title = "Canadian Medical Research"
+date = "2006-06-26T00:00:00Z"
+tags = ["Canada", "WTF"]
++++
 
 Don't let anyone tell you that Canada never contributed groundbreaking research
 to the medical field. First, the discovery and isolation of insulin by

@@ -1,7 +1,8 @@
----
-date: "2004-11-04T00:00:00Z"
-title: Apartment Hunting
----
++++
+title = "Apartment Hunting"
+date = "2004-11-04T00:00:00Z"
+tags = ["Japan"]
++++
 
 Through a stroke of luck, I think I may have actually found a permanent place
 to live in Jiyugaoka close to Toritsu Daigaku station.<!--more-->

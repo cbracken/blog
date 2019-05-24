@@ -1,9 +1,8 @@
----
-date: "2005-01-05T00:00:00Z"
-tags:
-- Japan
-title: 明けましておめでとうございます！
----
++++
+title = "明けましておめでとうございます！"
+date = "2005-01-05T00:00:00Z"
+tags = ["Japan"]
++++
 
 {{< figure src="/post/2005-01-05-yasaka.jpg"
     alt="Buddhist monk ringing bell" >}}

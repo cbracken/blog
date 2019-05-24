@@ -1,10 +1,8 @@
----
-date: "2001-12-26T00:00:00Z"
-tags:
-- Mexico
-- Travel
-title: Chichen Itzá, Yucatán, México
----
++++
+title = "Chichen Itzá, Yucatán, México"
+date = "2001-12-26T00:00:00Z"
+tags = ["Mexico", "Travel"]
++++
 
 Somewhere on the old highway between Cancún and Mérida lies Chichen Itzá. The
 ruins at this site cover over 15 square kilometres, with *El Castillo* alone

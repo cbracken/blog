@@ -1,9 +1,8 @@
----
-date: "2002-01-01T00:00:00Z"
-tags:
-- Mexico
-title: ¡Feliz Navidad!
----
++++
+title = "¡Feliz Navidad!"
+date = "2002-01-01T00:00:00Z"
+tags = ["Mexico"]
++++
 
 Took a two week trip through southern México for Christmas. Starting in Mérida,
 southwest into Campeche, Tabasco, Veracruz and then Chiapas.<!--more--> Stopped

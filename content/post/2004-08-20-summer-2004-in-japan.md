@@ -1,10 +1,8 @@
----
-date: "2004-08-20T00:00:00Z"
-tags:
-- Japan
-- Travel
-title: Summer 2004 in Japan
----
++++
+title = "Summer 2004 in Japan"
+date = "2004-08-20T00:00:00Z"
+tags = ["Japan", "Travel"]
++++
 
 I had originally planned my summer vacations for May, then July, and finally,
 in an effort to match my summer vacations with those of friends in Japan, ended

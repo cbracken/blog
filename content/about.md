@@ -1,6 +1,6 @@
----
-title: About me
----
++++
+title = "About me"
++++
 
 This site is mainly intended as a way to keep in touch with friends and family
 back in Canada while I’m off galavanting in other countries.
