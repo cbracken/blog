@@ -100,7 +100,7 @@ Centre or Synaptic. I'd recommend grabbing the *ttf-takao* package.
 Next up, we'll install and configure Mozc.
 
 1. **Install ibus-mozc:** `sudo apt-get install ibus-mozc`
-1. **Restart the ibus daemon:** `/usr/bin/ibus-daemon --xim -r`
+1. **Restart the ibus daemon:** `/usr/bin/ibus-daemon --xim -r -d`
 1. **Set your input method to mozc:**
    1. Open *Keyboard Input Methods* settings.
    1. Select the *Input Method* tab.
