@@ -5,8 +5,9 @@ slug = "apple-reinvents-the-iphone"
 tags = ["iPhone", "Japan"]
 +++
 
-*Update (2009-02-28)*: Alright, guilty as charged. "No wireless. Less space than
-a nomad. [Lame](https://slashdot.org/story/01/10/23/1816257/Apple-releases-iPod).
+*Update (2009-02-28)*: Alright, guilty as charged. "No wireless. Less space
+than a nomad.
+[Lame](https://slashdot.org/story/01/10/23/1816257/Apple-releases-iPod)."
 
 After watching the Steve Jobs iPhone keynote, I have to say I'm a little
 disappointed. While this phone has a slicker GUI than any other phone I've
