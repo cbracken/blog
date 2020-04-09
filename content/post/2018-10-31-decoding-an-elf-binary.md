@@ -597,11 +597,9 @@ laid-out by the linker.
 
 On launch, the kernel maps the binary image into memory as specified in the
 program header table:
-
   * PHT Entry 0: The ELF header, program header table, and Section 1 (`.text`)
     are mapped from offset 0x00 of the binary image (with length 0xd6 bytes)
     into Segment 1 (readable, executable) at address 0x400000.
-
   * PHT Entry 1: Section 2 (`.data`) at offset 0xd8 of the binary image is
     mapped into Segment 2 (readable, writeable) at address 0x600000 from offset
     0xd8 with length 0x0e bytes.
