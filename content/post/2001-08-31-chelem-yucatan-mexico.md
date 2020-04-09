@@ -14,7 +14,7 @@ by a bathing centre and the town of Chelem. Now right now I’m going to come
 straight out and say it: if someone ever tells you a story about the amazing
 beaches at Yucalpetén, just back away slowly and do not make any sudden
 moves—the person you are talking to has probably escaped from an asylum.
-<!-- more -->
+<!--more-->
 
 {{< figure src="/post/2001-08-31-chelem.jpg" alt="Main street of Chelem"
     title="The main street of Chelem?" >}}

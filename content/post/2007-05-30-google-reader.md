@@ -11,7 +11,7 @@ got my money's worth out of it. After partnering with [NewsGator][newsgator], I
 started using their online feed-reader on and off, with mixed
 results. I like that it keeps my feeds in sync between my computers,
 and that I can browse articles at lunch, but the interface is still not on par
-with NetNewsWire itself.<!-- more -->
+with NetNewsWire itself.<!--more-->
 
 While NewsGator's implementation was lacking, I really did like the idea of
 dropping the desktop app altogether and going with a fully online solution, so

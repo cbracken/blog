@@ -9,7 +9,7 @@ A big difference between the last time I moved to the US and this time is that
 this time, I've got a lot more stuff. One of those things is a recent-vintage
 Nissan. Faced with the prospect of selling my car and buying a new one, I chose
 instead to import the one I know and love. Here is my story. But be
-forewarned, it is not for the faint of heart.<!-- more -->
+forewarned, it is not for the faint of heart.<!--more-->
 
 {{< figure src="/post/2011-05-10-futile.jpg"
     alt="Scrawny kid vs sumo wrestler" >}}
