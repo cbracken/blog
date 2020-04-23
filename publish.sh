@@ -1,18 +1,18 @@
-#!/bin/bash
+#!/bin/sh
 
 PUBLISH_REPO=git@github.com:cbracken/cbracken.github.io.git
 
 # Returns whether the git repo at path $1 has any uncommitted diffs.
-function has_diffs() {
+has_diffs() {
   git -C $1 status > /dev/null
   git -C $1 diff-index --quiet HEAD -- && return 1 || return 0
 }
 
 # Prompts the user with $1. Returns whether user replied y/Y.
-function prompt_yn() {
-  read -p "$1" -n 1 -r
+prompt_yn() {
+  read -p "$1" -r REPLY
   echo
-  if [[ $REPLY =~ ^[Yy]$ ]]; then return 0; else return 1; fi
+  test `echo $REPLY | tr a-z A-Z | head -c 1` = Y
 }
 
 # Check for hugo command.
@@ -25,7 +25,7 @@ if has_diffs .; then
 fi
 
 # If public dir exists, abort.
-if [[ -d public ]]; then
+if [ -d public ]; then
   echo >&2 "public directory exists. Remove and re-run. Aborting."
   exit 1
 fi
