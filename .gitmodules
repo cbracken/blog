@@ -1,3 +1,3 @@
 [submodule "themes/mofo"]
 	path = themes/mofo
-	url = https://github.com/cbracken/hugo-theme-mofo.git
+	url = https://git.sr.ht/~cbracken/hugo-theme-mofo
