@@ -126,7 +126,7 @@ let's get decoding this thing:
     e_machine                  0x003e              x86_64
     e_version                  0x00000001          Version 1
     e_entry                    0x0000000000000000  Entrypoint address (none)
-    e_phoff                    0x0000000000000000  Program header table offset in image (none)
+    e_phoff                    0x0000000000000000  Program header table offset in image
     e_shoff                    0x0000000000000040  Section header table offset in image
     e_flags                    0x00000000          Architecture-dependent interpretation
     e_ehsize                   0x0040              Size of this ELF header (64B)
