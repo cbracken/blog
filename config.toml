@@ -34,14 +34,19 @@ paginate = 5
   url = "/about/"
 [[menu.main]]
   name = "GitHub"
-  weight = 20
+  weight = 40
   identifier = "github"
-  url = "https://github.com/cbracken/"
+  url = "https://github.com/cbracken"
 [[menu.main]]
-  name = "Twitter"
-  weight = 20
-  identifier = "twitter"
-  url = "https://twitter.com/cbracken/"
+  name = "sr.ht"
+  weight = 50
+  identifier = "srht"
+  url = "https://git.sr.ht/~cbracken"
+[[menu.main]]
+  name = "Mastodon"
+  weight = 60
+  identifier = "mastodon"
+  url = "https://mastodon.social/web/accounts/851052"
 
 [params]
   since = "2000"                  # Initial site creation, start of copyright.
