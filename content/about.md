@@ -25,13 +25,13 @@ I decided enough was enough, grabbed my B.Eng., and booted myself out
 the door and into the world.
 
 Initially, I moved south of the border to spend a couple years in
-California working at [Autodesk][autodesk] working on AutoCAD. Deciding
-that this wasn't south-of-the-border enough, I packed my bags and headed
-to Mérida, México, which sits neatly within the borders of the Chicxulub
-crater where the asteroid that caused the Cretaceous-Paleogene mass
-extinction event landed. I spent the year writing point-of-sale software
-for a local art gallery, doing some travelling, and doing some teaching
-on the side.
+California working on AutoCAD at Autodesk. Deciding that this wasn't
+south-of-the-border enough, I packed my bags and headed to Mérida,
+México, which sits neatly within the borders of the Chicxulub crater
+where the asteroid that caused the Cretaceous-Paleogene mass extinction
+event landed. I spent the year writing point-of-sale software for a
+local art gallery, doing some travelling, and doing some teaching on the
+side.
 
 A year later, as my visa neared its end, I started wandering my way back
 to Canada via Cuba, Belize, Guatemala, and Honduras before remembering
@@ -44,14 +44,16 @@ wife, learned to speak, read, and write Japanese, got married, and had
 kids. I've spent the time since working on a variety of projects ranging
 from equities trading systems, the Dart programming language, the
 Flutter app SDK, and the Fuchsia operating system. I currently work at
-[Google][google].
+Google.
 
 You can drop me a line anytime at [chris@bracken.jp][email].
+
 
 ## About this site
 
 You can find the source for this site and instructions on how to build
-it on [GitHub][site_repo].
+it [here][site_repo].
+
 
 ## PGP public key
 
@@ -160,9 +162,6 @@ wA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-[autodesk]: https://autodesk.com
-[github]: https://github.com/cbracken
-[google]: https://google.com
 [email]: mailto:chris@bracken.jp
 [keybase]: https://keybase.io/cbracken
-[site_repo]: https://github.com/cbracken/blog
+[site_repo]: https://gitlab.com/cbracken/blog
