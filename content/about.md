@@ -54,6 +54,11 @@ You can drop me a line anytime at [chris@bracken.jp][email].
 You can find the source for this site and instructions on how to build
 it [here][site_repo].
 
+This site contains no tracking, no cookies, and no Javascript. It should
+work well with screen-readers and text-mode browsers. My web skills are
+near-nonexistant, so if you've got feedback on how it could be improved,
+shoot me an email.
+
 
 ## PGP public key
 
