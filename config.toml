@@ -33,18 +33,13 @@ paginate = 5
   identifier = "about"
   url = "/about/"
 [[menu.main]]
-  name = "GitHub"
-  weight = 40
-  identifier = "github"
-  url = "https://github.com/cbracken"
-[[menu.main]]
-  name = "sr.ht"
-  weight = 50
-  identifier = "srht"
-  url = "https://git.sr.ht/~cbracken"
+  name = "Code"
+  weight = 30
+  identifier = "code"
+  url = "/code/"
 [[menu.main]]
   name = "Mastodon"
-  weight = 60
+  weight = 40
   identifier = "mastodon"
   url = "https://mastodon.social/web/accounts/851052"
 
