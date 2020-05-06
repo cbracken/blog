@@ -2,39 +2,61 @@
 title = "About me"
 +++
 
-This site is mainly intended as a way to keep in touch with friends and family
-back in Canada while I’m off galavanting in other countries.
+This site is mainly intended as a way to keep in touch with friends and
+family in Canada and elsewhere while I’m off wandering the world from
+one country to the next.
 
-After wandering aimlessly through various university faculties until I had the
-requisite bits of paper, I moved south of the border to work as a software
-developer at [Autodesk][autodesk] in San Rafael, California, just across the
-bridge from San Francisco. At that point, this site was mostly crammed with
-pictures from the City, Sonoma, and some shots of lizards and stuff.
+I'm a software developer who's been fascinated by computers since I was
+a kid. I wrote my first lines of BASIC and 6502 assembly on a Canadian
+knock-off Apple II+ clone made by Apco, dutifully copying source
+listings line-by-line from _Compute!_ magazine. Working my way up
+through a Laser Turbo XT and a 286, I finally landed on a 386 DX
+clocking in at a whopping 33 MHz. It was on this machine that I first
+installed Linux from a stack of 3.5" floppies and learned to code in
+Pascal and C. A couple years later, sometime in the mid-90s, some
+classmates convinced me I should check out FreeBSD, and because I'm
+used to it, but also out of sheer laziness, I've been using it as my
+main home setup pretty much ever since.
 
-After leaving Autodesk, I took off for Mérida, México, where the people were
-friendly, the food was delicious, and the telephone calls were $3.00 a minute.
-As a result, I dumped all the pictures and stories I could on here, mainly to
-avoid of dying destitute and thousands of pesos in debt to TelMex.
+At some point I headed off to university. Seven years later, after
+wandering aimlessly from faculty to faculty through Chemistry, Physics &
+Astronomy, Japanese, and Electrical and Computer engineering programmes,
+I decided enough was enough, grabbed my B.Eng., and booted myself out
+the door and into the world.
 
-Eventually, I moved to one of the best cities in the world, Tokyo, Japan, where
-I lived for close to five years, met my wife, and learned to speak, read, and
-write Japanese. Our children were born in Japan, and it still feels more like
-home than anywhere else.
+Initially, I moved south of the border to spend a couple years in
+California working at [Autodesk][autodesk] working on AutoCAD. Deciding
+that this wasn't south-of-the-border enough, I packed my bags and headed
+to Mérida, México, which sits neatly within the borders of the Chicxulub
+crater where the asteroid that caused the Cretaceous-Paleogene mass
+extinction event landed. I spent the year writing point-of-sale software
+for a local art gallery, doing some travelling, and doing some teaching
+on the side.
 
-We now live in Mountain View, California, where I work as a software engineer
-for [Google][google].
+A year later, as my visa neared its end, I started wandering my way back
+to Canada via Cuba, Belize, Guatemala, and Honduras before remembering
+which way was north and zig-zagging my way slowly back home on
+third-class buses.
+
+A couple years later, after some more hacking on 3D CAD software, I
+picked up my few possessions and moved to Tokyo, Japan, where I met my
+wife, learned to speak, read, and write Japanese, got married, and had
+kids. I've spent the time since working on a variety of projects ranging
+from equities trading systems, the Dart programming language, the
+Flutter app SDK, and the Fuchsia operating system. I currently work at
+[Google][google].
 
 You can drop me a line anytime at [chris@bracken.jp][email].
 
 ## About this site
 
-You can find the source for this site and instructions on how to build it on
-[GitHub][site_repo].
+You can find the source for this site and instructions on how to build
+it on [GitHub][site_repo].
 
 ## PGP public key
 
-If you’re a fan of crypto, you can find me on [keybase.io][keybase]. Here’s my
-PGP public key:
+If you’re a fan of crypto, you can find me on [keybase.io][keybase].
+Here’s my PGP public key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
