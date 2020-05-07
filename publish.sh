@@ -42,7 +42,7 @@ else
   git -C public diff
   if prompt_yn "Commit and publish? "; then
     git -C public add .
-    git -C public commit -m "Publish site"
+    git -C public commit -S -m "Publish site"
     git -C public push origin master
   fi
 fi
