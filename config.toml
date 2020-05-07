@@ -46,3 +46,7 @@ paginate = 5
 [params]
   since = "2000"                  # Initial site creation, start of copyright.
   dateFormat = "02 January 2006"  # See https://gohugo.io/functions/format/
+  ccAttributionName = "Chris Bracken"
+  ccAttributionUrl = "https://chris.bracken.jp/about"
+  ccLicenseName = "CC BY-SA 4.0"
+  ccLicenseUrl = "https://creativecommons.org/licenses/by-sa/4.0"
