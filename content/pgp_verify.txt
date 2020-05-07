@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+I hereby claim:
+
+* I am Chris Bracken <chris@bracken.jp>
+* I have a public key 9EF6957AF673652E4AB5542DBBE45868CBE8A8FE
+* I am the admin of https://chris.bracken.jp
+
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEEnvaVevZzZS5KtVQtu+RYaMvoqP4FAl60cOoACgkQu+RYaMvo
+qP7yZwf+M7Qgctuwez58SQKXY2u2E9f4vzVLZuOFNrjfUjHrunRAwBWHTVjE/hvo
+hcqxFzut/pA3pE+uITJNebcYEdMpKC1t3cO+KmPSfP3alC9/FTFMdIND5w3AJ8ZQ
+6baclppDmYXc9j92HUdWFmUriTYuTW88hNO88l56NOO9ECAYrPEB3nQ9RgL2u04X
+fGB162NE4+JkNkL9KxcznEQkT/GXRcgSALjIPdFTT5YkLbAmDXRXO+Jzg7o1sPNn
+zkLkqjKISH6fkYZZZ4W4UY6E7GNE5wZ8ZuWEWCfKoGHvCvs6qhOyYRe47VD+OjaF
+mpvdUg59sc6d1mkgl8lX2fIKtu6vqg==
+=gmso
+-----END PGP SIGNATURE-----

@@ -62,8 +62,8 @@ shoot me an email.
 
 ## PGP public key
 
-If you’re a fan of crypto, you can find me on [keybase.io][keybase].
-Here’s my PGP public key:
+If you're a fan of crypto, you can find my public key below. I've also
+posted [proof of ownership][ownership_proof] of this site.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -168,5 +168,5 @@ wA==
 ```
 
 [email]: mailto:chris@bracken.jp
-[keybase]: https://keybase.io/cbracken
+[ownership_proof]: https://chris.bracken.jp/pgp_verify.txt
 [site_repo]: https://gitlab.com/cbracken/blog
