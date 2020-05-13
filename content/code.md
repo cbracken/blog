@@ -5,7 +5,7 @@ title = "Code"
 You can find most of the public code I contribute to hosted at one of
 the following sites:
 
-* [sr.ht](https://git.sr.ht/cbracken/): Lightweight, no-nonsense UI and
+* [sr.ht](https://git.sr.ht/~cbracken/): Lightweight, no-nonsense UI and
   support for email-based contribution workflows. This is where most of
   my own repos lie.
 * [GitLab](https://gitlab.com/cbracken/): Better features and UI than
