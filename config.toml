@@ -41,7 +41,7 @@ paginate = 5
   name = "Mastodon"
   weight = 40
   identifier = "mastodon"
-  url = "https://mastodon.social/web/accounts/851052"
+  url = "https://mastodon.social/@cbracken"
 
 [params]
   since = "2000"                  # Initial site creation, start of copyright.
