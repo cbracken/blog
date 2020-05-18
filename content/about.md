@@ -18,11 +18,11 @@ classmates convinced me I should check out FreeBSD, and because I'm
 used to it, but also out of sheer laziness, I've been using it as my
 main home setup pretty much ever since.
 
-At some point I headed off to university. Seven years later, after
-wandering aimlessly from faculty to faculty through Chemistry, Physics &
-Astronomy, Japanese, and Electrical and Computer engineering programmes,
-I decided enough was enough, grabbed my B.Eng., and booted myself out
-the door and into the world.
+I headed off to university sometime in the early 90s. Seven years later,
+after wandering aimlessly from faculty to faculty through Chemistry,
+Physics & Astronomy, Japanese, and Electrical and Computer engineering
+programmes, I decided enough was enough, grabbed my B.Eng., and booted
+myself out the door and into the world.
 
 Initially, I moved south of the border to spend a couple years in
 California working on AutoCAD at Autodesk. Deciding that this wasn't
@@ -51,13 +51,13 @@ You can drop me a line anytime at [chris@bracken.jp][email].
 
 ## About this site
 
-You can find the source for this site and instructions on how to build
-it [here][site_repo].
-
 This site contains no tracking, no cookies, and no Javascript. It should
 work well with screen-readers and text-mode browsers. My web skills are
 near-nonexistant, so if you've got feedback on how it could be improved,
 shoot me an email.
+
+You can find the source and instructions on how to build the site
+[here][site_repo].
 
 
 ## PGP public key
@@ -169,4 +169,4 @@ wA==
 
 [email]: mailto:chris@bracken.jp
 [ownership_proof]: https://chris.bracken.jp/pgp_verify.txt
-[site_repo]: https://gitlab.com/cbracken/blog
+[site_repo]: https://git.sr.ht/~cbracken/blog
