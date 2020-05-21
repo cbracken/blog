@@ -66,6 +66,8 @@ If you're a fan of crypto, you can find my public key below, or
 [download it][pubkey]. I've also posted
 [proof of ownership][ownership_proof] of this site.
 
+GPG fingerprint: `9EF6 957A F673 652E 4AB5 542D BBE4 5868 CBE8 A8FE`
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
