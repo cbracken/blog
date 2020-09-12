@@ -38,10 +38,10 @@ paginate = 5
   identifier = "code"
   url = "/code/"
 [[menu.main]]
-  name = "Mastodon"
+  name = "Twitter"
   weight = 40
-  identifier = "mastodon"
-  url = "https://mastodon.social/@cbracken"
+  identifier = "twitter"
+  url = "https://twitter.com/cbracken/"
 
 [params]
   since = "2000"                  # Initial site creation, start of copyright.
