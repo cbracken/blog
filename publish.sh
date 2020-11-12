@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PUBLISH_REPO=git@github.com:cbracken/cbracken.github.io.git
+PUBLISH_REPO=git@github.com:cbracken/chris.bracken.jp.git
 
 # Returns whether the git repo at path $1 has any uncommitted diffs.
 has_diffs() {
@@ -43,7 +43,7 @@ else
   if prompt_yn "Commit and publish? "; then
     git -C public add .
     git -C public commit -S -m "Publish site"
-    git -C public push origin master
+    git -C public push origin main
   fi
 fi
 
