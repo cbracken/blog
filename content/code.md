@@ -10,7 +10,7 @@ the following sites:
 * [GitLab](https://gitlab.com/cbracken/): Better features and UI than
   GitHub.
 
-### Significant contributions
+## Significant contributions
 
 * [Flutter](https://github.com/flutter/flutter/): portable,
   cross-platform app SDK and runtime. Most of my contributions focus on
