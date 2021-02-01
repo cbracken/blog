@@ -1,6 +1,6 @@
 baseURL = "https://chris.bracken.jp/"
-languageCode = "en-ca"
-defaultContentLanguage = "en-ca"
+languageCode = "en"
+defaultContentLanguage = "en"
 title = "Chris Bracken"
 enableRobotsTXT = true
 enableEmoji = true
