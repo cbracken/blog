@@ -51,9 +51,9 @@ You can drop me a line anytime at [chris@bracken.jp][email].
 
 ## About this site
 
-This site contains no tracking, no cookies, and no Javascript. It should
+This site contains no tracking, no cookies, and no JavaScript. It should
 work well with screen-readers and text-mode browsers. My web skills are
-near-nonexistant, so if you've got feedback on how it could be improved,
+near-nonexistent, so if you've got feedback on how it could be improved,
 shoot me an email.
 
 You can find the source and instructions on how to build the site
