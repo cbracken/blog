@@ -173,4 +173,4 @@ wA==
 [email]: mailto:chris@bracken.jp
 [pubkey]: https://chris.bracken.jp/cbracken.asc
 [ownership_proof]: https://chris.bracken.jp/pgp_verify.txt
-[site_repo]: https://git.sr.ht/~cbracken/blog
+[site_repo]: https://github.com/cbracken/blog
