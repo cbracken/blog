@@ -19,4 +19,4 @@ But it turns out this is not the case: an article in [Metropolis][metropolis]
 unveils the answer to [The Big Tokyo Trash Mystery][trash_mystery].
 
 [metropolis]: http://www.metropolis.co.jp/
-[trash_mystery]: http://archive.metropolis.co.jp/tokyorantsravesarchive349/315/tokyorantsravesinc.htm
+[trash_mystery]: https://web.archive.org/web/20190222191348/http://archive.metropolis.co.jp/tokyorantsravesarchive349/315/tokyorantsravesinc.htm
