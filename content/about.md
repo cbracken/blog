@@ -46,7 +46,7 @@ from equities trading systems, the Dart programming language, the
 Flutter app SDK, and the Fuchsia operating system. I currently work at
 Google.
 
-You can drop me a line anytime at [chris@bracken.jp][email]. (🇬🇧🇫🇷🇯🇵)
+You can drop me a line anytime at [chris@bracken.jp][email]. (en, fr, ja)
 
 
 ## About this site
