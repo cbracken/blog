@@ -5,6 +5,7 @@ title = "Code"
 You can find most of the public code I contribute to hosted at one of
 the following sites:
 
+* [git.bracken.jp](https://git.bracken.jp/): My self-hosted git repos.
 * [GitHub](https://github.com/cbracken/): The most popular source code
   hosting solution and where most of my public contributions lie.
 * [GitLab](https://gitlab.com/cbracken/): Better features and UI than
